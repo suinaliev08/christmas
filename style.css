@@ -131,7 +131,7 @@ canvas {
 
 .clock {
     position: fixed;
-    width: 100%;
+    left:40%;
     display: flex;
     align-items: center;
     justify-content: center;
